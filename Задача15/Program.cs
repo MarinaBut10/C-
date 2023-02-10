@@ -25,6 +25,4 @@ if (Day < Неделя.Length)
 else
 {
 Console.WriteLine("День недели не существует");
-
-
 }
